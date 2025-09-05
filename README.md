@@ -9,7 +9,9 @@ optionalfeatures.exe
 Tick Mark On :
 
 Hyper-V
+
 Virtual Machine Platform
+
 Windows Subsystem for Linux
 
 Then Restart PC
