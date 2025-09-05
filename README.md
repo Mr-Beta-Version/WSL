@@ -26,6 +26,7 @@ https://github.com/microsoft/WSL/releases/
 
 Download Ubuntu From Microsoft Store
 Disable Windows Defender Firewall
+If Network Block Use Phone Hotspot
 
 > Done 
 
